@@ -1,0 +1,51 @@
+Nombre del País,Año,PIB (en unidades monetarias),Esperanza de Vida (en años)
+Reino de las Fantasías,2023,500000000000,120
+Reino de las Fantasías,2024,550000000000,121
+Reino de las Fantasías,2025,600000000000,122
+Reino de las Fantasías,2026,650000000000,123
+Reino de las Fantasías,2027,700000000000,124
+Tierra de Ensueño,2023,750000000000,115
+Tierra de Ensueño,2024,800000000000,116
+Tierra de Ensueño,2025,850000000000,117
+Tierra de Ensueño,2026,900000000000,118
+Tierra de Ensueño,2027,950000000000,119
+País de los Milagros,2023,1000000000000,110
+País de los Milagros,2024,1050000000000,111
+País de los Milagros,2025,1100000000000,112
+País de los Milagros,2026,1150000000000,113
+País de los Milagros,2027,1200000000000,114
+Imperio de la Imaginación,2023,800000000000,105
+Imperio de la Imaginación,2024,820000000000,106
+Imperio de la Imaginación,2025,840000000000,107
+Imperio de la Imaginación,2026,860000000000,108
+Imperio de la Imaginación,2027,880000000000,109
+Nación de los Sueños,2023,600000000000,112
+Nación de los Sueños,2024,620000000000,113
+Nación de los Sueños,2025,640000000000,114
+Nación de los Sueños,2026,660000000000,115
+Nación de los Sueños,2027,680000000000,116
+Dominio de la Ilusión,2023,900000000000,108
+Dominio de la Ilusión,2024,920000000000,109
+Dominio de la Ilusión,2025,940000000000,110
+Dominio de la Ilusión,2026,960000000000,111
+Dominio de la Ilusión,2027,980000000000,112
+Territorio de la Asombrosidad,2023,1200000000000,115
+Territorio de la Asombrosidad,2024,1250000000000,116
+Territorio de la Asombrosidad,2025,1300000000000,117
+Territorio de la Asombrosidad,2026,1350000000000,118
+Territorio de la Asombrosidad,2027,1400000000000,119
+Región de la Fantasmagoría,2023,700000000000,103
+Región de la Fantasmagoría,2024,710000000000,104
+Región de la Fantasmagoría,2025,720000000000,105
+Región de la Fantasmagoría,2026,730000000000,106
+Región de la Fantasmagoría,2027,740000000000,107
+Provincia de los Quimerismos,2023,850000000000,110
+Provincia de los Quimerismos,2024,860000000000,111
+Provincia de los Quimerismos,2025,870000000000,112
+Provincia de los Quimerismos,2026,880000000000,113
+Provincia de los Quimerismos,2027,890000000000,114
+Estado de la Maravilla,2023,1100000000000,118
+Estado de la Maravilla,2024,1150000000000,119
+Estado de la Maravilla,2025,1200000000000,120
+Estado de la Maravilla,2026,1250000000000,121
+Estado de la Maravilla,2027,1300000000000,122
